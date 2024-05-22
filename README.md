@@ -1,2 +1,0 @@
-# infinitecraft
-Created with CodeSandbox
